@@ -1,2 +1,2 @@
 # GameZone
-Simple Maze Game (Console Application)
+# Simple Maze Game (Console Application)
